@@ -38,12 +38,4 @@ This repository is a hub for all things **Amanah Studios – Fast Forward**. Whe
 - **Join the Conversation:** Share ideas and contribute to evolving our brand’s digital footprint.
 - **Connect With Us:** Stay updated on our latest projects and success stories.
 
----
-
-## License
-
-Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
-
----
-
 *Fast Forward your brand with Amanah Studios—because your business deserves to lead, not just compete.*
