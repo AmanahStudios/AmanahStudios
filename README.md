@@ -1,9 +1,5 @@
 # Amanah Studios – Fast Forward
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" alt="Fast Forward Animation" width="600"/>
-</p>
-
 **Fast Forward your brand transformation.**
 
 Amanah Studios is where digital branding meets high-octane innovation. Our **Fast Forward** philosophy accelerates small business brands into premium competitors through rapid, cutting-edge design and conversion-focused strategies.
@@ -23,10 +19,6 @@ We’re not just a digital agency—we’re a creative engine. By fusing advance
 ## Our Vision
 
 We believe every ambitious small business deserves a powerful digital identity. With **Fast Forward**, we harness cool animations and interactive experiences to deliver a brand narrative that’s as dynamic as it is impactful.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Interactive Design" width="600"/>
-</p>
 
 ---
 
